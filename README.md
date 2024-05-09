@@ -2,4 +2,4 @@
 
 **Theme Summary**
 
-For more information, please see: **url to meta topic**
+This theme adds options to remove the like count as well as link clickthrough count from discourse.
