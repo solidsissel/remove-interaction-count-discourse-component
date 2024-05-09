@@ -6,7 +6,7 @@ replace_like_count_with_nothing:
 replace_like_count_with_reaction:
   default: false
   description:
-    en: Replaces the like count with text saying "Reactions". Note that this setting takes precedence over displaying nothing.
+    en: Replaces the like count with text saying "Reactions". Note that this setting takes precedence over the above.
 
 remove_link_clickthrough_click_count:
   default: false
