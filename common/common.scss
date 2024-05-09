@@ -1,0 +1,20 @@
+@if $replace_like_count_with_nothing == "true" or $replace_like_count_with_reaction == "true" {
+    .reactions-counter, discourse-reactions-counter {
+        visibility: hidden;
+    }
+
+    @if $replace_like_count_with_reaction == "true" {
+        .reactions-counter::after, discourse-reactions-counter {
+            content: 'Reactions';
+            visibility: visible;
+        }        
+    }
+}
+
+@if $remove_link_clickthrough_click_count == "true" {
+    .topic-body .badge-notification.clicks { 
+        display: none; 
+    }
+}
+
+

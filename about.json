@@ -1,0 +1,15 @@
+{
+  "name": "remove-interaction-count",
+  "component": true,
+  "authors": "Sissel",
+  "about_url": "https://github.com/solidsissel/remove-interaction-count-discourse-component",
+  "license_url": "https://github.com/solidsissel/remove-interaction-count-discourse-component/blob/main/LICENSE",
+  "learn_more": "To learn more, ask me on the forum.",
+  "theme_version": "1.0.0",
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+  },
+  "modifiers": {
+  }
+}
